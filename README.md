@@ -1,4 +1,4 @@
-# Machine Translation
+# LTRC Internship 2019 NLP-MT LAB
 
 Here is an English-Hindi implementation of three seminal papers in Neural Machine Translation:
 
